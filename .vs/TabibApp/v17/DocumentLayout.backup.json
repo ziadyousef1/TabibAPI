@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual project\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|d:\\visual project\\backend\\tabibapp.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|solutionrelative:tabibapp.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|d:\\visual project\\backend\\tabibapp.infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|solutionrelative:tabibapp.infrastructure\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBC1FE8-C376-4480-B647-2008426FAF67}|TabibApp.Api\\TabibApp.Api.csproj|d:\\visual project\\backend\\tabibapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBC1FE8-C376-4480-B647-2008426FAF67}|TabibApp.Api\\TabibApp.Api.csproj|solutionrelative:tabibapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBC1FE8-C376-4480-B647-2008426FAF67}|TabibApp.Api\\TabibApp.Api.csproj|d:\\visual project\\backend\\tabibapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BBC1FE8-C376-4480-B647-2008426FAF67}|TabibApp.Api\\TabibApp.Api.csproj|solutionrelative:tabibapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|d:\\visual project\\backend\\tabibapp.infrastructure\\dependancyinjection\\servicecontainercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF44111D-0518-4C51-AD17-A7F74F975C0A}|TabibApp.Infrastructure\\TabibApp.Infrastructure.csproj|solutionrelative:tabibapp.infrastructure\\dependancyinjection\\servicecontainercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\imedicalhistoryrecordsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\imedicalhistoryrecordsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\iadmindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\iadmindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\repositories\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\repositories\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\tabibapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\tabibapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\dtos\\medicalhistoryuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\dtos\\medicalhistoryuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|d:\\visual project\\backend\\tabibapp.domain\\dtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8B1D4B-84BE-459C-A853-2A0690886E27}|TabibApp.Domain\\TabibApp.Domain.csproj|solutionrelative:tabibapp.domain\\dtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\IChatRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:16:23.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Infrastructure\\Repositories\\ChatRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "TabibApp.Infrastructure\\Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:14:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "TabibApp.Api\\Program.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Api\\Program.cs",
+              "RelativeToolTip": "TabibApp.Api\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:12:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "TabibApp.Api\\appsettings.json",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Api\\appsettings.json",
+              "RelativeToolTip": "TabibApp.Api\\appsettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:11:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMedicalHistoryRecordsRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IMedicalHistoryRecordsRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\IMedicalHistoryRecordsRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IMedicalHistoryRecordsRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\IMedicalHistoryRecordsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:24.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "TabibApp.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:49:56.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\ISessionRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\ISessionRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:20.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminDashboardRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAdminDashboardRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\IAdminDashboardRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAdminDashboardRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\IAdminDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:19.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceContainercs.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\DependancyInjection\\ServiceContainercs.cs",
+              "RelativeDocumentMoniker": "TabibApp.Infrastructure\\DependancyInjection\\ServiceContainercs.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Infrastructure\\DependancyInjection\\ServiceContainercs.cs",
+              "RelativeToolTip": "TabibApp.Infrastructure\\DependancyInjection\\ServiceContainercs.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:41:04.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAssistantRepository.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAssistantRepository.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Repositories\\IAssistantRepository.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Repositories\\IAssistantRepository.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Repositories\\IAssistantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabibApp.Domain",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\TabibApp.Domain.csproj",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\TabibApp.Domain.csproj",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\TabibApp.Domain.csproj",
+              "RelativeToolTip": "TabibApp.Domain\\TabibApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T13:19:06.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedicalHistoryUploadDto.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Dtos\\MedicalHistoryUploadDto.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Dtos\\MedicalHistoryUploadDto.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Dtos\\MedicalHistoryUploadDto.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Dtos\\MedicalHistoryUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:34:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDoctorDto.cs",
+              "DocumentMoniker": "D:\\visual project\\Backend\\TabibApp.Domain\\Dtos\\RegisterDoctorDto.cs",
+              "RelativeDocumentMoniker": "TabibApp.Domain\\Dtos\\RegisterDoctorDto.cs",
+              "ToolTip": "D:\\visual project\\Backend\\TabibApp.Domain\\Dtos\\RegisterDoctorDto.cs",
+              "RelativeToolTip": "TabibApp.Domain\\Dtos\\RegisterDoctorDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T08:34:34.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
