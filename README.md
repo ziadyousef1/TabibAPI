@@ -35,11 +35,20 @@ The **Tabib** project is structured as follows:
 
 **Swagger** and XML comments provide API documentation. Key endpoints:
 
-- `POST /api/account/register`: Register a new user (Doctor, Patient, or Assistant).
+- `POST /api/register`: Register a new user (Doctor, Patient, or Assistant).
 - `GET /api/appointments`: Get user appointments (filterable by status and date).
 - `POST /api/appointments/book`: Book an appointment slot.
 - `GET /api/clinics/{id}`: Get clinic details and available doctors.
-- `POST /api/chats`: Initiate real-time chats.
+- `POST /api/chats`: Get all chats.
+
+<div align="center">
+
+
+  
+  <img src="img1.png" alt="API Documentation Example 1" width="400" height="300"/>
+  <img src="img2.png" alt="API Documentation Example 2" width="400" height="300"/>
+
+</div>
 
 ## Database Design
 
@@ -56,13 +65,13 @@ Planned features include:
 
 - **Telemedicine**: Video consultations between doctors and patients.
 - **Push Notifications**: Alerts for upcoming appointments, chat messages, and medical reminders.
-- **Mobile Apps**: Android and iOS apps for easy access to key features.
+
 
 ## Backend Testing
 
 The system uses **xUnit** for testing:
 
 - **Unit Testing**: Core functionalities (appointment booking, registration, authentication) are tested using **xUnit** with mock dependencies to ensure business logic correctness.
-### Public API Access
+
 
 
